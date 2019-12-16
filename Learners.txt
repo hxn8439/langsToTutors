@@ -1,0 +1,51 @@
+Paulie Glott
+Gender:female
+Language:Dinka
+Start:08/6/2016
+Max:$4.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-
+
+Hamilton Nguyen
+Gender:male
+Language:English
+Start:09/11/2000
+Max:$40.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-
+
+Mimo Mimo
+Gender:female	
+Language:bark
+Start:08/6/1991
+Max:$400.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-
+
+Tifa Tifa
+Gender:female	
+Language:bark
+Start:09/05/2018
+Max:$4000.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-

@@ -1,0 +1,41 @@
+Jane Nguyen
+Gender:female	
+Language:bark
+Start:09/05/1993
+Max:$350.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-
+Session:0
+
+Alex Nguyen
+Gender:male	
+Language:English
+Start:09/05/2011
+Max:$399.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-
+Session:3
+
+Jill Edwards
+Gender:female	
+Language:sassy
+Start:09/05/2001
+Max:$40000.25
+Sunday:x
+Monday:-
+Tuesday:x
+Wednesday:-
+Thursday:x
+Friday:x
+Saturday:-
+Session:3
